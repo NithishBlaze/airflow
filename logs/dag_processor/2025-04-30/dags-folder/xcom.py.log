@@ -1,0 +1,3 @@
+{"timestamp":"2025-04-30T08:25:07.299278","level":"info","event":"Filling up the DagBag from /workspaces/airflow/dags/xcom.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-04-30T08:25:38.693178","level":"info","event":"Filling up the DagBag from /workspaces/airflow/dags/xcom.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-04-30T08:26:09.588039","level":"info","event":"Filling up the DagBag from /workspaces/airflow/dags/xcom.py","logger":"airflow.models.dagbag.DagBag"}

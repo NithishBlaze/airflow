@@ -1,0 +1,4 @@
+{"timestamp":"2025-04-29T13:22:02.642794","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-04-29T13:22:02.643345","level":"info","event":"Filling up the DagBag from /workspaces/airflow/dags/xcom_task2.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-04-29T13:22:02.679642Z","level":"info","event":"82 is even !","chan":"stdout","logger":"task"}
+{"timestamp":"2025-04-29T13:22:02.679685","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

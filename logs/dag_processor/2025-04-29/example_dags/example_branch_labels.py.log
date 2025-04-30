@@ -1,1 +1,5 @@
 {"timestamp":"2025-04-29T11:28:12.460311","level":"info","event":"Filling up the DagBag from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-04-29T11:30:31.207621","level":"info","event":"Filling up the DagBag from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-04-29T11:31:02.079787","level":"info","event":"Filling up the DagBag from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-04-29T11:33:32.515858","level":"info","event":"Filling up the DagBag from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-04-29T11:34:03.461265","level":"info","event":"Filling up the DagBag from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/example_branch_labels.py","logger":"airflow.models.dagbag.DagBag"}
